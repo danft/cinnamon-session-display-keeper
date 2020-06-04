@@ -1,0 +1,6 @@
+{
+    "uuid": "multidisplay-session",
+    "name": "MultiDisplay",
+    "description": "Some utilities for multidisplay",
+    "icon": "preferences-desktop-display"
+   }
